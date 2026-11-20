@@ -2,6 +2,15 @@
 
 An AI-powered real-time webinar intelligence and moderation platform that automatically detects attendee issues, clusters duplicate complaints, analyzes sentiment, generates summaries, and prioritizes critical concerns for webinar hosts.
 
+# 🌐 Live Demo
+
+### Streamlit Dashboard
+
+https://ai-webinar-moderation-system-main-4jm5olrthuamhnq4gfz6yx.streamlit.app/
+
+### GitHub Repository
+
+https://github.com/mohitrajdubey39-cloud/AI-Webinar-Moderation-System-main
 --
 
 # 📸 Dashboard Preview
